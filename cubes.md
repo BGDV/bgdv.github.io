@@ -1,6 +1,6 @@
 # Cubes for games
 
-![iPhone 16 Pro Max — small](https://github.com/user-attachments/assets/52578118-d7d5-4025-bc59-e09bdd095127)
+![iPhone 16 Pro Max — small](https://github.com/user-attachments/assets/52ee5ce6-8b21-47ba-a256-50c0e7a791fe)
 
 ## How it works
 
@@ -22,4 +22,4 @@
 16. Payment is made on the terms and technical basis of the App Store.
 17. The "About" screen displays a short but true story of how the app was created. And also contact information is indicated.
 
-### For any questions, suggestions or comments, feel free to contact the developer's email address: andrey.al.bogdanov@icloud.com
+### For any questions, suggestions or comments, feel free to contact the developer's email address: <andrey.al.bogdanov@icloud.com>
