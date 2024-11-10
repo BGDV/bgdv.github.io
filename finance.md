@@ -1,5 +1,7 @@
 # Finance: personal assistant
 
+## Privacy Policy [`here`](finance_privacy)
+
 ## How it works
 1. «Finance(P)» - a program designed to maintain and record personal finances.
 2. The program runs locally. Doesn't work with network. Therefore, no data is collected or sent over the network. All information is stored only on the device.
