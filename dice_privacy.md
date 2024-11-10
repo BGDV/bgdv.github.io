@@ -17,5 +17,5 @@ To improve the performance of Ads, third party (Google Mobile Ads SDK) may colle
 __Changes to this Policy__  
 We may update this privacy policy from time to time. Users will be notified of any material changes.
 
-Contacts  
-e-mail: andrey.al.bogdanov@icloud.com
+Contact  
+e-mail: <andrey.al.bogdanov@icloud.com>
