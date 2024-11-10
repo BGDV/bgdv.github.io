@@ -2,6 +2,8 @@
 
 ![iPhone 16 Pro Max — small](https://github.com/user-attachments/assets/bd4424ef-6442-44c6-b9a3-cdd2bf8c395a)
 
+## Privacy Policy [`here`](dice_privacy)
+
 ## How it works
 
 1. Dice are intended for any game that uses one to six dice.
