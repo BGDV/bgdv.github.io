@@ -1,3 +1,3 @@
 # Andrei Bogdanov | iOS development
 
-###  [`Cubes for games`](cubes)
+###  [`Dice for games`](dice)
