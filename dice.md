@@ -22,6 +22,6 @@
 16. Payment is made on the terms and technical basis of the App Store.
 17. The "About" screen displays a short but true story of how the app was created. And also contact information is indicated.
 
-### For any questions, suggestions or comments, feel free to contact the developer's email address: <andrey.al.bogdanov@icloud.com>
+### For any questions, suggestions or comments, feel free to contact the developer's email address: <bgdv.dev@icloud.com>
 
 ![iPhone 16 Pro Max — small](https://github.com/user-attachments/assets/bd4424ef-6442-44c6-b9a3-cdd2bf8c395a)
