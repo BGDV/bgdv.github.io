@@ -18,4 +18,4 @@ __Changes to this Policy__
 We may update this privacy policy from time to time. Users will be notified of any material changes.
 
 Contact  
-e-mail: <andrey.al.bogdanov@icloud.com>
+e-mail: <bgdv.dev@icloud.com>
