@@ -19,4 +19,4 @@
 14. Also in the settings you can change the profile, log out of the account, delete the profile or erase all data.
 
 For any questions, suggestions or comments, feel free to contact the developer's email:
-<andrey.al.bogdanov@icloud.com>
+<bgdv.dev@icloud.com>
