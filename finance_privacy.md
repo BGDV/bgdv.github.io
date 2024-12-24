@@ -12,4 +12,4 @@
 2. We have the right to make changes to this Policy. When changes are made in the current edition, the date of the last update is indicated. The new version of the Policy comes into force from the moment it is posted, unless otherwise provided by the new version of the Policy.
 
 Contact  
-e-mail: <andrey.al.bogdanov@icloud.com>
+e-mail: <bgdv.dev@icloud.com>
