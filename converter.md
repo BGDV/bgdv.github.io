@@ -26,4 +26,4 @@ __6. Limitation of Liability__
 To the fullest extent permitted by law, Andrei Bogdanov shall not be liable for any indirect, incidental, or consequential damages arising from your use of the app.
 
 __7. Contact Information__  
-If you have any questions about these Terms of Service, please contact us at <andrey.al.bogdanov@icloud.com>
+If you have any questions about these Terms of Service, please contact us at <bgdv.dev@icloud.com>
