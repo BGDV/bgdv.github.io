@@ -8,7 +8,7 @@ __1. Introduction__
 These Terms of Service govern your use of our mobile application. By accessing or using the app, you agree to comply with these terms. If you do not agree, please do not use the app.
 
 __2. Acceptance of Terms__  
-By using Converter +, you confirm that you are at least 18 years old and have the legal capacity to enter into these terms. If you are using the app on behalf of an organization, you represent that you have the authority to bind that organization to these terms.
+By using Exch +, you confirm that you have the legal capacity to enter into these terms. If you are using the app on behalf of an organization, you represent that you have the authority to bind that organization to these terms.
 
 __3. Changes to Terms__  
 We may modify these Terms of Service at any time. Changes will be effective immediately upon posting in the AppStore and app. Your continued use of the app after changes are made constitutes your acceptance of the new terms.
