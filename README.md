@@ -1,4 +1,4 @@
-# Andrei Bogdanov | iOS development
+# iOS development
 
 ##  [Exch +](exch "Read more about project")
 
