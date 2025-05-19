@@ -1,6 +1,6 @@
 # iOS development
 
-##  [Exch +](exch "Read more about project")
+##  [Exch rates](exch "Read more about project")
 
 ##  [Finance: personal assistant](finance "Read more about project")
 
