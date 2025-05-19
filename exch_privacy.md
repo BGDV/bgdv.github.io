@@ -1,4 +1,4 @@
-# Exch +
+# Exch rates
 
 ## Privacy Policy
 
