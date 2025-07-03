@@ -1,6 +1,6 @@
 # iOS development
 
-##  [Aeros](exch "Read more about project")
+##  [Aeros](aeros "Read more about project")
 
 ##  [Exch rates](exch "Read more about project")
 
